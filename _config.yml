@@ -23,7 +23,7 @@ description: Welcome to my homepage!
 
 # List of links in the navigation bar
 navbar-links:
-  Home:""
+  Home: ""
   About Me: "aboutme"
   Projects: "Projects"
   Resources:
