@@ -12,7 +12,7 @@ This page contains school/recreation/fun projects that makes my day and my pride
 
 
 ## Recreational Projects
-- [Predicting listing satisfaction-kaggle](https://github.com/kennchin/Kaggle/tree/master/Predict%20listing%20satisfaction)- First kaggle submissioin using different classifiers (logistic regression,multiclass classifier) to predict listing satisfaction using python language.
+- [Predicting listing satisfaction-kaggle](https://github.com/kennchin/Kaggle/tree/master/Predict%20listing%20satisfaction)- First kaggle submission using different classifiers (logistic regression,multiclass classifier) to predict listing satisfaction using python language.
 
 ## Miscellaneous
 - [R notes](https://github.com/kennchin/R_codes)- Personal notes about some useful R codes.
