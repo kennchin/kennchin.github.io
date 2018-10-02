@@ -16,6 +16,6 @@ This page contains school/recreation/fun projects that makes my day and my pride
 
 ## Miscellaneous
 - [R notes](https://github.com/kennchin/R_codes)- Personal notes about some useful R codes.
-- [Python notes] (https://github.com/kennchin/Python_codes)- Personal notes about some useful Python codes.
-- [SQL notes] (https://github.com/kennchin/SQL)- Personal notes about some useful SQL codes.
+- [Python notes](https://github.com/kennchin/Python_codes)- Personal notes about some useful Python codes.
+- [SQL notes](https://github.com/kennchin/SQL)- Personal notes about some useful SQL codes.
 
