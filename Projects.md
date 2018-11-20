@@ -12,7 +12,7 @@ This page contains school/recreation/fun projects that makes my day and my pride
 
 
 ## Other Projects
-- [Shiny app to monitor clinical trials](https://kennchin.shinyapps.io/Monitor/)- A R shiny app to monitor a portfolio of clinical trials using defined set of metrics. [github code](https://github.com/kennchin/shiny_app_monitor)
+- [Shiny app to monitor clinical trials](https://kennchin.shinyapps.io/Monitor/)- A R shiny app to monitor a portfolio of clinical trials using defined set of metrics. Here is the [github source code](https://github.com/kennchin/shiny_app_monitor)
 
 - [Predicting listing satisfaction-kaggle](https://github.com/kennchin/Kaggle/tree/master/Predict%20listing%20satisfaction)- First kaggle submission using different classifiers (logistic regression,multiclass classifier) to predict listing satisfaction using python language.
 
