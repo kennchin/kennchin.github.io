@@ -26,9 +26,9 @@ navbar-links:
   Home: ""
   About Me: "aboutme"
   Projects: "Projects"
-  #Resources:
-  #  - Learn markdown: "http://www.markdowntutorial.com/"
-  #  - GitHub Pages: "https://pages.github.com/"
+  Interesting People:
+     - Hadley Wickam: "http://hadley.nz"
+     - Jennifer Thompson: "https://jenthompson.me"
   #Author's home: "http://username.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
