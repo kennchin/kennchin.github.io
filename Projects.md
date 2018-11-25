@@ -9,7 +9,8 @@ This page contains school/recreation/fun projects that makes my day and my pride
 
 ## School Projects
 - Classification by Ensemble Random Partition (CERP)- This project uses decision trees model(CART tree/Ctree) to classify high genomic data and it uses k-fold cross validation as the validation step. This project is written in R language.   
-  - [code](https://github.com/kennchin/CERP)
+  - [Presentation] (https://portfolium.com/entry/classification-by-ensemble-of-random-partition)
+  - [Souce Code](https://github.com/kennchin/CERP)
 
 ## Other Projects
 - [Shiny app to monitor clinical trials](https://kennchin.shinyapps.io/Monitor/)- A R shiny app to monitor a portfolio of clinical trials using defined set of metrics. Here is the [github source code](https://github.com/kennchin/shiny_app_monitor)
