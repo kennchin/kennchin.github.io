@@ -12,10 +12,19 @@ This page contains school/recreation/fun projects that makes my day and my pride
   - [Presentation](https://portfolium.com/entry/classification-by-ensemble-of-random-partition)
   - [Souce Code](https://github.com/kennchin/CERP)
 
-## Other Projects
-- [Shiny app to monitor clinical trials](https://kennchin.shinyapps.io/Monitor/)- A R shiny app to monitor a portfolio of clinical trials using defined set of metrics. Here is the [github source code](https://github.com/kennchin/shiny_app_monitor)
+- Life Expectancy Analysis - This project uses different classification method for 
+  - [Presentation](https://portfolium.com/entry/classification-method)
 
-- [Predicting listing satisfaction-kaggle](https://github.com/kennchin/Kaggle/tree/master/Predict%20listing%20satisfaction)- First kaggle submission using different classifiers (logistic regression,multiclass classifier) to predict listing satisfaction using python language.
+- Predicting Mortality Rate in 1969 - 
+  -[ Presentation](https://portfolium.com/entry/predicting-mortality-rate-in-1969)
+  
+
+## Other Projects
+- [Shiny app to monitor clinical trials](https://kennchin.shinyapps.io/Monitor/)- A R shiny app to monitor a portfolio of clinical trials using defined set of metrics. 
+  - [Source Code](https://github.com/kennchin/shiny_app_monitor)
+
+- Predicting listing satisfaction-kaggle- First kaggle submission using different classifiers (logistic regression,multiclass classifier) to predict listing satisfaction using python language.
+  - [Souce Code]([Predicting listing satisfaction-kaggle](https://github.com/kennchin/Kaggle/tree/master/Predict%20listing%20satisfaction))
 
 ## Miscellaneous
 - [R notes](https://github.com/kennchin/R_codes)- Personal notes about some useful R codes.
