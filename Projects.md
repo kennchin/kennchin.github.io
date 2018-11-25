@@ -9,7 +9,7 @@ This page contains school/recreation/fun projects that makes my day and my pride
 
 ## School Projects
 - Classification by Ensemble Random Partition (CERP)- This project uses decision trees model(CART tree/Ctree) to classify high genomic data and it uses k-fold cross validation as the validation step. This project is written in R language.   
-  - [Presentation] (https://portfolium.com/entry/classification-by-ensemble-of-random-partition)
+  - [Presentation](https://portfolium.com/entry/classification-by-ensemble-of-random-partition)
   - [Souce Code](https://github.com/kennchin/CERP)
 
 ## Other Projects
