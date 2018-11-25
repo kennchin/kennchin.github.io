@@ -12,7 +12,7 @@ This page contains school/recreation/fun projects that makes my day and my pride
   - [Presentation](https://portfolium.com/entry/classification-by-ensemble-of-random-partition)
   - [Souce Code](https://github.com/kennchin/CERP)
 
-- Life Expectancy Analysis - This project uses different classification method for 
+- Life Expectancy Analysis - This project uses different classification method (cluster analysis, PCA, Linear Discriminant Analysis, Logistic regression) to classify the life expectancy of a country based on a set of predictors using the dataset collected by The World Bank. We split our dataset in 70% for training and 30% for validation. The result showed that both Linear Discriminant Analysis and Logistic regression have good predictive power.   
   - [Presentation](https://portfolium.com/entry/classification-method)
 
 - Predicting Mortality Rate in 1969 - This project uses multiple linear regression model on the dataset created by McDonald, G.C. and Schwing, R.C in 1973 for 60 different cities in the United States.  It uses PRESS(Prediction Sum of Squares) statistic for model validation due to the small dataset. A significant model is constructed with a predictive power of 76%.SAS program is used for the analysis.        
@@ -23,11 +23,12 @@ This page contains school/recreation/fun projects that makes my day and my pride
   
 
 ## Other Projects
-- [Shiny app to monitor clinical trials](https://kennchin.shinyapps.io/Monitor/)- A R shiny app to monitor a portfolio of clinical trials using defined set of metrics. 
+- Shiny app to monitor clinical trials- A R shiny app to monitor a portfolio of clinical trials using defined set of metrics and defined templates. 
+  - [Demo](https://kennchin.shinyapps.io/Monitor/)
   - [Source Code](https://github.com/kennchin/shiny_app_monitor)
 
 - Predicting listing satisfaction-kaggle- First kaggle submission using different classifiers (logistic regression,multiclass classifier) to predict listing satisfaction using python language.
-  - [Souce Code]([Predicting listing satisfaction-kaggle](https://github.com/kennchin/Kaggle/tree/master/Predict%20listing%20satisfaction))
+  - [Souce Code](https://github.com/kennchin/Kaggle/tree/master/Predict%20listing%20satisfaction))
 
 ## Miscellaneous
 - [R notes](https://github.com/kennchin/R_codes)- Personal notes about some useful R codes.
