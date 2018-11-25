@@ -15,11 +15,11 @@ This page contains school/recreation/fun projects that makes my day and my pride
 - Life Expectancy Analysis - This project uses different classification method for 
   - [Presentation](https://portfolium.com/entry/classification-method)
 
-- Predicting Mortality Rate in 1969 - This project uses multiple linear regression model on the dataset created by McDonald, G.C. and Schwing, R.C in 1973 for 60 different cities in the United States.  It uses PRESS(Prediction Sum of Squares) statistic for model validation due to the small dataset. A significant model is constructed with a predictive power of 76%.   
-  -[Presentation](https://portfolium.com/entry/predicting-mortality-rate-in-1969)
+- Predicting Mortality Rate in 1969 - This project uses multiple linear regression model on the dataset created by McDonald, G.C. and Schwing, R.C in 1973 for 60 different cities in the United States.  It uses PRESS(Prediction Sum of Squares) statistic for model validation due to the small dataset. A significant model is constructed with a predictive power of 76%.SAS program is used for the analysis.        
+  - [Presentation](https://portfolium.com/entry/predicting-mortality-rate-in-1969)
 
-- Experimental Design on basketball shooting - This project explores three factors(drink,distance,jumping) that might lead to a successful shot in two different days. We collected data for two days for 16 volunteers at a public park and then we analyzed this experiment using a 2^3 Factorial Design with replicates as block as the model. The result showed that there is no main effect, no interaction, and no blocking at 5% significance level. But, if we raise the significance level to 10%, the main effects of drink and jumping are significant with no interaction effect and no blocking. SAS program is used for the analysis.   
-  -[Presentation](https://portfolium.com/entry/the-factors-of-a-good-basketball-shot)
+- Experimental Design on basketball shooting - This project explores three factors(drink,distance,jumping) that might lead to a successful shot in two different days. We collected data for two days for 16 volunteers at a public park and then we    analyzed this experiment using a 2^3 Factorial Design with replicates as block as the model. The result showed that there is no main effect, no interaction, and no blocking at 5% significance level. But, if we raise the significance level to 10%, the main effects of drink and jumping are significant with no interaction effect and no blocking. SAS program is used for the analysis.   
+  - [Presentation](https://portfolium.com/entry/the-factors-of-a-good-basketball-shot)
   
 
 ## Other Projects
