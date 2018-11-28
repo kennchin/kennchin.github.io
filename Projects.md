@@ -23,6 +23,9 @@ This page contains school/recreation/fun projects that makes my day and my pride
   
 
 ## Other Projects
+- Multivariate outlier detection - A shiny app that allows us to detect extreme outlier visually along with its information based on the package mvoutlier by Peter Filzmoser and Moritz Gschwandtner. I modified the plots in the package to fit my needs in two ways: the number represents the observation in the dataset and use nicer plot provided by ggplot.
+  - [Demo](https://kechin.shinyapps.io/mvoutlier_own/)
+  - [Souce Code](https://github.com/kennchin/multivariate_outlier)   
 - Shiny app to monitor clinical trials- A R shiny app to monitor a portfolio of clinical trials using defined set of metrics and defined templates. 
   - [Demo](https://kennchin.shinyapps.io/Monitor/)
   - [Source Code](https://github.com/kennchin/shiny_app_monitor)
